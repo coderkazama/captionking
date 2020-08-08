@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "095c1c3a9fb2bd4b9e6db0eb00852807",
+    "revision": "ba8194411ecf2497cbf90effc26c0a29",
     "url": "/captionking/index.html"
   },
   {
