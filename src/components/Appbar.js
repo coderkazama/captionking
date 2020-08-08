@@ -19,7 +19,7 @@ import MenuIcon from '@material-ui/icons/Menu';
 import Home from "../pages/Home";
 import About from "../pages/About";
 
-const drawerWidth = '45%'
+const drawerWidth = 300;
 const history = createBrowserHistory();
 const styles = theme => ({
   root: {
