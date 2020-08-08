@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "09ffd6b395b4276d7e9a73ec686c16b6",
+    "revision": "c4369fca37589e2cda745e606d21f035",
     "url": "/captionking/index.html"
   },
   {
-    "revision": "24e29903904c33d05f98",
+    "revision": "8a9a8dd3e90b064fa07f",
     "url": "/captionking/static/css/main.bd8c3ade.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/captionking/static/js/2.a5b68137.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "24e29903904c33d05f98",
-    "url": "/captionking/static/js/main.51dafc49.chunk.js"
+    "revision": "8a9a8dd3e90b064fa07f",
+    "url": "/captionking/static/js/main.df2b96c0.chunk.js"
   },
   {
     "revision": "f96cee695a8262a74cca",
