@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/captionking/static/css/main.bd8c3ade.chunk.css",
-    "main.js": "/captionking/static/js/main.62ef0bc7.chunk.js",
-    "main.js.map": "/captionking/static/js/main.62ef0bc7.chunk.js.map",
+    "main.js": "/captionking/static/js/main.9be27f00.chunk.js",
+    "main.js.map": "/captionking/static/js/main.9be27f00.chunk.js.map",
     "runtime-main.js": "/captionking/static/js/runtime-main.1e5d9d80.js",
     "runtime-main.js.map": "/captionking/static/js/runtime-main.1e5d9d80.js.map",
     "static/js/2.a5b68137.chunk.js": "/captionking/static/js/2.a5b68137.chunk.js",
     "static/js/2.a5b68137.chunk.js.map": "/captionking/static/js/2.a5b68137.chunk.js.map",
     "index.html": "/captionking/index.html",
-    "precache-manifest.4fd5dc4776582915aeeef4059531b01a.js": "/captionking/precache-manifest.4fd5dc4776582915aeeef4059531b01a.js",
+    "precache-manifest.64846c42200bfb156f100af548f191d3.js": "/captionking/precache-manifest.64846c42200bfb156f100af548f191d3.js",
     "service-worker.js": "/captionking/service-worker.js",
     "static/css/main.bd8c3ade.chunk.css.map": "/captionking/static/css/main.bd8c3ade.chunk.css.map",
     "static/js/2.a5b68137.chunk.js.LICENSE.txt": "/captionking/static/js/2.a5b68137.chunk.js.LICENSE.txt",
@@ -20,6 +20,6 @@
     "static/js/runtime-main.1e5d9d80.js",
     "static/js/2.a5b68137.chunk.js",
     "static/css/main.bd8c3ade.chunk.css",
-    "static/js/main.62ef0bc7.chunk.js"
+    "static/js/main.9be27f00.chunk.js"
   ]
 }
