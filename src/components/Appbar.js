@@ -99,7 +99,7 @@ alt="header logo"
           src={require('../asset/header.jpg')} />
 
         <List>
-          <ListItem button component={Link} to="/" onClick={onItemClick('CaptionKing')}>
+          <ListItem button component={Link} to="/captionking" onClick={onItemClick('CaptionKing')}>
            
            <HomeIcon
            style ={{
@@ -152,8 +152,11 @@ alt="header logo"
         </List>
       </Drawer>
       <main className={classes.content}>
-        <Route exact path="/" component={Home} />
+    
+      <Route exact path="/captionking" component={Home} />
         <Route path="/about" component={About} />
+        
+     
       </main>
     </Router>
   )
